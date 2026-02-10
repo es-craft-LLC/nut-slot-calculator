@@ -54,5 +54,5 @@
 
 ## Author
 
-escraft合同会社  
+escraftLLC
 Guitar / Amplifier Repair & Engineering  
