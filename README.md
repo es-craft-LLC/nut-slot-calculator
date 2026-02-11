@@ -1,7 +1,7 @@
 # nut-slot-calculator
 # Guitar Nut Slot Spacing Calculator
 
-ギター／ベース用ナットの弦間隔を正確に計算し、  
+ギター／ベース用ナットの弦間隔を計算し、  
 **印刷してそのまま加工に使えるテンプレート**を生成するツールです。
 
 ---
